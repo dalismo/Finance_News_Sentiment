@@ -33,10 +33,11 @@ def clean_tableau(x, y, z, w):
     
     df_tickers = pd.read_csv(z, header=None)
     df_tickers1 = df_tickers.rename(columns={0:"tickers", 1:"text", 2:"ticker_counts"})
-    
+    df_tickers1 = df_tickers1.loc[df_tickers1["ticker_counts"]==1]
     df_stocklist = pd.read_csv(w)
     
     df_stocklist1 = df_stocklist.rename(columns={"Symbol":"tickers"})
+    
     df_merged_tickers = pd.merge(df_stocklist1, df_tickers1, on="tickers")
     
     df_merged_x = pd.merge(df_merged_tickers, merged_df, on="text")
