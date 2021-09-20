@@ -19,10 +19,10 @@ Using machine learning, create an algorithm that would take financial headlines 
 # Why our final sentiment analysis will be useful to users?
 1) Using financial headline inputs in csv format, users can get an analysis with classification of each inputted financial headline. 
 2) Using additional Stock News API data (date and tickers), stock list csv file, and our Tableau dashboard template, users can perform additional anaylsis on the following:
-  a) Sentiment analysis a given time period
-  b) Sentiment analysis by companies, sectors and industry
-  c) Emotional Analysis by keywords
-  d) Word Blast
+  a) Sentiment analysis a given time period <br>
+  b) Sentiment analysis by companies, sectors and industry <br>
+  c) Emotional Analysis by keywords <br>
+  d) Word Blast <br>
   
 ## Data sources
 1) [Stock News National Park Services API](https://stocknewsapi.com/documentation)  <br>
