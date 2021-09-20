@@ -60,6 +60,30 @@ Using supervised machine learning, create an algorithm that would take financial
 2) Read dataset in as DataFrame <br>
 3) Run the model from above to retrieve sentiment classification for each headline <br>
 
+```python
+#Logistic Regression Classifier
+#Cross validator different classification to  
+#Param Grid apply different parameters, testing which param is best
+from pyspark.ml.classification import LogisticRegression
+from pyspark.ml.evaluation import BinaryClassificationEvaluator
+from pyspark.ml.tuning import CrossValidator, ParamGridBuilder
+from pyspark.ml.evaluation import MulticlassClassificationEvaluator
+import numpy as np
+lr = LogisticRegression(maxIter = 10)
+
+paramGrid_lr = ParamGridBuilder() \
+    .addGrid(lr.regParam, np.linspace(0.3, 0.01, 10)) \
+    .addGrid(lr.elasticNetParam, np.linspace(0.3, 0.8, 6)) \
+    .build()
+crossval_lr = CrossValidator(estimator=lr,
+                          estimatorParamMaps=paramGrid_lr,
+                          evaluator=MulticlassClassificationEvaluator(),
+                          numFolds= 5)  
+cvModel_lr = crossval_lr.fit(trainDF)
+best_model_lr = cvModel_lr.bestModel.summary
+best_model_lr.predictions.columns
+```
+
 ### Data Analysis <br>
 1) [Get date and ticker information from Stock News API](https://stocknewsapi.com/documentation) or use alternative dataset<br>
 2) Use [Stock List from NASDAQ with key ticker information](https://www.nasdaq.com/market-activity/stocks/screener) <br>
