@@ -8,6 +8,8 @@
 * [Technologies](#technologies)
 * [Machine Learning Steps](#machine-learning-steps)
 * [Using Machine](#using-machine)
+* [Team](#team)
+
 
 
 ## Project Proposal 
@@ -66,7 +68,7 @@ Using machine learning, create an algorithm that would take financial headlines 
 5) Open csv in Tableau, using template provided, view data visualization. <br>
 
                                                         
-#### Team Roles
+#### Team 
 
 | Team Member           | Github username  |        
 | -----------           | -----------
