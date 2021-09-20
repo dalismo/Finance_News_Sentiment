@@ -26,7 +26,7 @@ Using machine learning, create an algorithm that would take financial headlines 
   
 ## Data sources
 1) [Stock News National Park Services API](https://stocknewsapi.com/documentation)  <br>
-2) [Stock List with Ticker, Country, Exchange, Financai Sector and Industry details](https://www.nasdaq.com/market-activity/stocks/screener)<br>
+2) [NASDAQ List - Ticker, Country, Exchange, Financai Sector and Industry details](https://www.nasdaq.com/market-activity/stocks/screener)<br>
 
  
 ## Technologies
@@ -62,8 +62,8 @@ Using machine learning, create an algorithm that would take financial headlines 
 
 ### Data Analysis <br>
 1) Get date and ticker information from Stock News API or use alternative dataset <br>
-2) Use Stock List from NASDAQ with key ticker information <br>
-3) Run the notebook for to clean and merge the financial sentiment classification, date, and detailed ticker information to perform analysis <br>
+2) Use [Stock List from NASDAQ with key ticker information](https://www.nasdaq.com/market-activity/stocks/screener) <br>
+3) Run the [functions notebook](https://github.com/dalismo/Finance_News_Sentiment/blob/main/functions.py) to clean and merge the financial sentiment classification, date, and detailed ticker information to perform analysis <br>
 4) Save merged DataFrame as csv <br>
 5) Open csv in Tableau, using template provided, view data visualization. <br>
 
