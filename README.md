@@ -57,7 +57,7 @@ Using machine learning, create an algorithm that would take financial headlines 
 ### Using Machine <br>
 1) Get financial headlines from Stock New API or use alternative dataset <br>
 2) Read dataset in as DataFrame <br>
-3) Run the notebook for with the NLP model to retrieve sentiment classification for each headline <br>
+3) Run the model from above to retrieve sentiment classification for each headline <br>
 
 
 ### Data Analysis <br>
