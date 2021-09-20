@@ -56,7 +56,7 @@ Using machine learning, create an algorithm that would take financial headlines 
 7) Hypertuning and Model - Run [Machine Notebook](). The notebook runs the test data through both the Logistics Regression and Naive Bayes, applies hypertuning with Param Grid Search and Cross Validator and allows users to evaluate the models using area under ROC, accuracy, F1 score. 
 
   
-### Using Machine
+### Using Machine Learning Model
 1) Get financial headlines from Stock New API or use alternative dataset <br>
 2) Read dataset in as DataFrame <br>
 3) Run the model from above to retrieve sentiment classification for each headline <br>
