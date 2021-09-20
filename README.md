@@ -28,7 +28,6 @@ Using supervised machine learning, create an algorithm that would take financial
 1) [Stock News API](https://stocknewsapi.com/documentation)  <br>
 2) [NASDAQ List - Ticker, Country, Exchange, Financai Sector and Industry details](https://www.nasdaq.com/market-activity/stocks/screener)<br>
 
- 
 ## Technologies
 * Python Pandas
 * PySpark
@@ -56,12 +55,10 @@ Using supervised machine learning, create an algorithm that would take financial
 
 7) Hypertuning and Model - Run [Machine Notebook](). The notebook runs the test data through both the Logistics Regression and Naive Bayes, applies hypertuning with Param Grid Search and Cross Validator and allows users to evaluate the models using area under ROC, accuracy, F1 score. 
 
-  
 ### Using Machine Learning Model
 1) Get financial headlines from Stock New API or use alternative dataset <br>
 2) Read dataset in as DataFrame <br>
 3) Run the model from above to retrieve sentiment classification for each headline <br>
-
 
 ### Data Analysis <br>
 1) [Get date and ticker information from Stock News API](https://stocknewsapi.com/documentation) or use alternative dataset<br>
@@ -69,7 +66,6 @@ Using supervised machine learning, create an algorithm that would take financial
 3) Run the [functions notebook](https://github.com/dalismo/Finance_News_Sentiment/blob/main/functions.py) to clean and merge the financial sentiment classification, date, and detailed ticker information to perform analysis <br>
 4) Save merged DataFrame as csv <br>
 5) Open csv in Tableau, using template provided, view data visualization. <br>
-
                                                         
 #### Team 
 
