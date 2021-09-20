@@ -38,7 +38,7 @@ Using machine learning, create an algorithm that would take financial headlines 
 * HTML/CSS
 
 ### Machine Learning Steps 
-1) [Get Test Data] (https://stocknewsapi.com/documentation) to retrieve financial headlines and sentiment classification and save as csv <br>
+1) [Get Test Data](https://stocknewsapi.com/documentation) to retrieve financial headlines and sentiment classification and save as csv <br>
   [Get API key](https://stocknewsapi.com/register)<br>
   
 2) Read Test Data in as DataFrame <br>
