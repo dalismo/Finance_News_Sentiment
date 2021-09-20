@@ -25,7 +25,7 @@ Using machine learning, create an algorithm that would take financial headlines 
   d) Word Blast <br>
   
 ## Data sources
-1) [Stock News National Park Services API](https://stocknewsapi.com/documentation)  <br>
+1) [Stock News API](https://stocknewsapi.com/documentation)  <br>
 2) [NASDAQ List - Ticker, Country, Exchange, Financai Sector and Industry details](https://www.nasdaq.com/market-activity/stocks/screener)<br>
 
  
