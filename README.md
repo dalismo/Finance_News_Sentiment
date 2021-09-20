@@ -8,9 +8,7 @@
 * [Technologies](#technologies)
 * [Machine Learning Steps](#machine-learning-steps)
 * [Using Machine](#using-machine)
-* [Full Stack Flow](#Full-Stack-Flow)
-* [Example Queries](#example-queries)
-* [Team Roles](#team-roles)
+
 
 ## Project Proposal 
 # A brief description of your final database
