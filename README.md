@@ -49,7 +49,7 @@ Using machine learning, create an algorithm that would take financial headlines 
 
 6) Split Data - Train 80%, Test 20%
 
-7) Hypertuning and Model - Logistics Regression and Naive Bayes to compare accuracy, F1 score. Hypertune with Param Grid Search and Cross Validator.
+7) Hypertuning and Model - Logistics Regression and Naive Bayes to compare area under ROC, accuracy, F1 score. Hypertune with Param Grid Search and Cross Validator.
 
   
 ### Using Machine <br>
