@@ -51,7 +51,7 @@ Using machine learning, create an algorithm that would take financial headlines 
 
 6) Split Data - Train 80%, Test 20%
 
-7) Hypertuning and Model - Run [Machine Notebook](https://github.com/dalismo/Finance_News_Sentiment/blob/main/AI_v3_count_vector_ml_sentiment_analysis_test.ipynb) Logistics Regression and Naive Bayes to compare area under ROC, accuracy, F1 score. Hypertune with Param Grid Search and Cross Validator.
+7) Hypertuning and Model - Run [Machine Notebook](). The notebook runs the test data through both the Logistics Regression and Naive Bayes, applies hypertuning with Param Grid Search and Cross Validator and allows users to evaluate the models using area under ROC, accuracy, F1 score. 
 
   
 ### Using Machine <br>
