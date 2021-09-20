@@ -1,6 +1,6 @@
 # Finance_News_Sentiment
 
-![image](https://miro.medium.com/max/3260/1*8XIjunF2z6dmsVlkEuOUaw.png)
+![image](https://user-images.githubusercontent.com/78628287/133952518-aa7a1665-d9ca-490e-bce4-2cb44380cb6e.png))
 
 ## Table of Contents ##
 * [Project Proposal](#project-proposal)
