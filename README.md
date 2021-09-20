@@ -14,7 +14,7 @@
 
 ## Project Proposal 
 # A brief description of your final database
-Using machine learning, create an algorithm that would take financial headlines as an input and analyze current sentiment in the financial industry. The analysis would be particularly interesting in the context of Covid pandemic.
+Using machine learning, create an algorithm that would take financial headlines as an input and analyze current sentiment in the financial industry. The analysis would be particularly interesting in the context of the Covid pandemic.
 
 # Why our final sentiment analysis will be useful to users?
 1) Using financial headline inputs in csv format, users can get an analysis with classification of each inputted financial headline. 
