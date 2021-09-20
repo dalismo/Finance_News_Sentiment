@@ -38,7 +38,7 @@ Using machine learning, create an algorithm that would take financial headlines 
 * HTML/CSS
 
 ### Machine Learning Steps 
-1) Get Test Data (https://stocknewsapi.com/documentation) to retrieve financial headlines and sentiment classification and save as csv <br>
+1) [Get Test Data] (https://stocknewsapi.com/documentation) to retrieve financial headlines and sentiment classification and save as csv <br>
   [Get API key](https://stocknewsapi.com/register)<br>
   
 2) Read Test Data in as DataFrame <br>
@@ -61,7 +61,7 @@ Using machine learning, create an algorithm that would take financial headlines 
 
 
 ### Data Analysis <br>
-1) Get date and ticker information from Stock News API or use alternative dataset (https://stocknewsapi.com/api/v1/category?section=alltickers&items=50&token=INSERT_API_KEY&page=1)<br>
+1) [Get date and ticker information from Stock News API] (https://stocknewsapi.com/api/v1/category?section=alltickers&items=50&token=INSERT_API_KEY&page=1) or use alternative dataset<br>
 2) Use [Stock List from NASDAQ with key ticker information](https://www.nasdaq.com/market-activity/stocks/screener) <br>
 3) Run the [functions notebook](https://github.com/dalismo/Finance_News_Sentiment/blob/main/functions.py) to clean and merge the financial sentiment classification, date, and detailed ticker information to perform analysis <br>
 4) Save merged DataFrame as csv <br>
