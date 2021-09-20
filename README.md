@@ -7,7 +7,7 @@
 * [Data Source](#data-sources)
 * [Technologies](#technologies)
 * [Machine Learning Steps](#machine-learning-steps)
-* [Using Machine](#using-machine)
+* [Using Machine Learning Model](#using-machine-learning-model)
 * [Team](#team)
 
 
