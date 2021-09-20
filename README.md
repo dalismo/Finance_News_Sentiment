@@ -17,7 +17,7 @@
 Using supervised machine learning, create an algorithm that would take financial headlines as an input and analyze current sentiment in the financial industry. The analysis would be particularly interesting in the context of the Covid pandemic. One would think that a majority of the financial headlines would denote some kind of negative sentiment. Thay would be our initial assumption.
 
 # Why our final sentiment analysis will be useful to users?
-1) Using financial headline inputs in csv format, users can get an analysis with classification of each inputted financial headline. 
+1) Using financial headline inputs in csv format, users can get an sentiment analysis with classification of each inputted financial headline. 
 2) Using additional Stock News API data (date and tickers), stock list csv file, and our Tableau dashboard template, users can perform additional anaylsis on the following: <br>
   a) Sentiment analysis a given time period <br>
   b) Sentiment analysis by companies, sectors and industry <br>
@@ -31,8 +31,9 @@ Using supervised machine learning, create an algorithm that would take financial
  
 ## Technologies
 * Python Pandas
+* PySpark
 * Tableau
-* PySpark / Google Colab
+* Google Colab
 * ScikitLearning
 * JavaScript
 * HTML/CSS
