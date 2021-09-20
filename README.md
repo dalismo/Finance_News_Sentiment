@@ -61,9 +61,6 @@ Using supervised machine learning, create an algorithm that would take financial
 3) Run the model from above to retrieve sentiment classification for each headline <br>
 
 ```python
-#Logistic Regression Classifier
-#Cross validator different classification to  
-#Param Grid apply different parameters, testing which param is best
 from pyspark.ml.classification import LogisticRegression
 from pyspark.ml.evaluation import BinaryClassificationEvaluator
 from pyspark.ml.tuning import CrossValidator, ParamGridBuilder
