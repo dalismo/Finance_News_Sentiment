@@ -1,4 +1,4 @@
-# Finance_News_Sentiment
+# Finance News Sentiment
 
 ![image](https://user-images.githubusercontent.com/78628287/133952518-aa7a1665-d9ca-490e-bce4-2cb44380cb6e.png)
 
