@@ -14,7 +14,7 @@
 
 ## Project Proposal 
 # A brief description of our project
-Using supervised machine learning, create an algorithm that would take financial headlines as an input and analyze current sentiment in the financial industry. The analysis would be particularly interesting in the context of the Covid pandemic. One would think that a majority of the financial headlines would denote some kind of negative sentiment. That would be our initial assumption. Here is a link to our hosting[Website](https://financialsentiment.w3spaces.com/index.html).
+Using supervised machine learning, create an algorithm that would take financial headlines as an input and analyze current sentiment in the financial industry. The analysis would be particularly interesting in the context of the Covid pandemic. One would think that a majority of the financial headlines would denote some kind of negative sentiment. That would be our initial assumption. Here is a link to our hosting [Website](https://financialsentiment.w3spaces.com/index.html).
 
 # Why our final sentiment analysis will be useful to users?
 1) Using financial headline inputs in csv format, users can get an sentiment analysis with classification of each inputted financial headline. 
