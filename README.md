@@ -8,6 +8,7 @@
 * [Technologies](#technologies)
 * [Machine Learning Steps](#machine-learning-steps)
 * [Using Machine Learning Model](#using-machine-learning-model)
+* [Slidedeck](#Slidedeck)
 * [Team](#team)
 
 
@@ -33,6 +34,7 @@ Using supervised machine learning, create an algorithm that would take financial
 * PySpark
 * Tableau
 * Google Colab
+* ScikitLearning
 * JavaScript
 * HTML/CSS
 * [w3schools.com](https://www.w3schools.com/spaces/)
@@ -86,6 +88,9 @@ best_model_lr.predictions.columns
 3) Run the [functions notebook](https://github.com/dalismo/Finance_News_Sentiment/blob/main/data_consolidation_for_tableau_notebooks/functions.py) to clean and merge the financial sentiment classification, date, and detailed ticker information to perform analysis <br>
 4) Save merged DataFrame as csv <br>
 5) Open csv in Tableau, using template provided, view data visualization. <br>
+
+### Slidedeck
+[Financial News Analysis](https://docs.google.com/presentation/d/1JPbDcfikwPo9rSSoqPZuvqCu15xvtRfl_Vh4y5cHxjs/edit#slide=id.gf098162efb_0_1006)
                                                         
 #### Team 
 
