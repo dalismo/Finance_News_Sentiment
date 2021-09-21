@@ -33,7 +33,6 @@ Using supervised machine learning, create an algorithm that would take financial
 * PySpark
 * Tableau
 * Google Colab
-* ScikitLearning
 * JavaScript
 * HTML/CSS
 * [w3schools.com](https://www.w3schools.com/spaces/)
