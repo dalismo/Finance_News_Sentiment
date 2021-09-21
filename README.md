@@ -53,7 +53,7 @@ Using supervised machine learning, create an algorithm that would take financial
 
 6) Split Data - Train 80%, Test 20%
 
-7) Hypertuning and Model - Run [Machine Notebook](). The notebook runs the test data through both the Logistics Regression and Naive Bayes, applies hypertuning with Param Grid Search and Cross Validator and allows users to evaluate the models using area under ROC, accuracy, F1 score. 
+7) Hypertuning and Model - Run [Machine Notebook](https://github.com/dalismo/Finance_News_Sentiment/blob/main/Machine_Learning/machine_training_model.ipynb). The notebook runs the test data through both the Logistics Regression and Naive Bayes, applies hypertuning with Param Grid Search and Cross Validator and allows users to evaluate the models using area under ROC, accuracy, F1 score. 
 
 ### Using Machine Learning Model
 1) Get financial headlines from Stock New API or use alternative dataset <br>
