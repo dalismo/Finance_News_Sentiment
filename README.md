@@ -22,7 +22,7 @@ Using supervised machine learning, create an algorithm that would take financial
 2) Using additional Stock News API data (date and tickers), stock list csv file, and our Tableau dashboard template, users can perform additional anaylsis on the following: <br>
   a) Sentiment analysis a given time period <br>
   b) Sentiment analysis by companies, sectors and industry <br>
-  c) Emotional Analysis by keywords <br>
+  c) Emotional Analysis by keywords. Keywords grouped in Tableau based on their feelings.<br>
   d) Word Blast <br>
   
 ## Data sources
