@@ -23,7 +23,7 @@ Using supervised machine learning, create an algorithm that would take financial
   * Sentiment analysis a given time period <br>
   * Sentiment analysis by companies, sectors and industry <br>
   * Emotional Analysis by keywords. <br>
-     * Keywords grouped in Tableau based on their feelings to create visualizations. [Feelings Resource](https://englishstudypage.com/grammar/feeling-words-in-english/) <br>
+     * Keywords grouped in Tableau based on their feelings to create visualizations. [Feelings Resource Website](https://englishstudypage.com/grammar/feeling-words-in-english/) <br>
   * Word Blast <br>
   
 ## Data sources
