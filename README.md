@@ -18,12 +18,13 @@
 Using supervised machine learning, create an algorithm that would take financial headlines as an input and analyze current sentiment in the financial industry. The analysis would be particularly interesting in the context of the Covid pandemic. One would think that a majority of the financial headlines would denote some kind of negative sentiment. That would be our initial assumption. Here is a link to our hosting [Website](https://financialsentiment.w3spaces.com/index.html).
 
 # Why our final sentiment analysis will be useful to users?
-1) Using financial headline inputs in csv format, users can get an sentiment analysis with classification of each inputted financial headline. 
-2) Using additional Stock News API data (date and tickers), stock list csv file, and our Tableau dashboard template, users can perform additional anaylsis on the following: <br>
-  a) Sentiment analysis a given time period <br>
-  b) Sentiment analysis by companies, sectors and industry <br>
-  c) Emotional Analysis by keywords. Keywords grouped in Tableau based on their feelings.<br>
-  d) Word Blast <br>
+* Using financial headline inputs in csv format, users can get an sentiment analysis with classification of each inputted financial headline. 
+* Using additional Stock News API data (date and tickers), stock list csv file, and our Tableau dashboard template, users can perform additional anaylsis on the following: <br>
+  * Sentiment analysis a given time period <br>
+  * Sentiment analysis by companies, sectors and industry <br>
+  * Emotional Analysis by keywords. <br>
+     * Keywords grouped in Tableau based on their feelings. [Feelings Resource](https://englishstudypage.com/grammar/feeling-words-in-english/) <br>
+  * Word Blast <br>
   
 ## Data sources
 1) [Stock News API](https://stocknewsapi.com/documentation)  <br>
